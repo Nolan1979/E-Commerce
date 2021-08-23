@@ -3,7 +3,11 @@
 
 ## Description
 This is a back end app that allows business owners to maintain their inventory!
+<<<<<<< HEAD
 This app uses node.js and Mysql.
+=======
+This app uses node.js and Mysql.
+>>>>>>> 73d66bbe6f9f301c9307eab2fb2e94a48f07cd7b
 
 ## Table of Contents
 - [Installation](#installation)
