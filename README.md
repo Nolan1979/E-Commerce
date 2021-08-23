@@ -23,8 +23,8 @@ Once cloned and installed run "npm start"
 ## Contributing
 You can clone this repo here https://github.com/Nolan1979/E-Commerce
 
-## Tests
-
-
 ## Questions
 Having an issue? Email me with any questions about the app nolanjosh1979@gmail.com
+
+## Walk Through Video
+https://drive.google.com/file/d/1ebouLwJ-kKq2ZSZlj_D-UWGGORZsQxeQ/view
