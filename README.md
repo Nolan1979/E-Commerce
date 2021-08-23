@@ -11,6 +11,7 @@ This app uses node.js and Mysql.
 - [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
+- [Walkthrough Video](#Walkthrough Video)
 
 ## Installation
 Clone this repo to your machine and run "npm i" in your terminal or bash.
@@ -27,5 +28,5 @@ You can clone this repo here https://github.com/Nolan1979/E-Commerce
 ## Questions
 Having an issue? Email me with any questions about the app nolanjosh1979@gmail.com
 
-## Walk Through Video
+## Walkthrough Video
 https://drive.google.com/file/d/1ebouLwJ-kKq2ZSZlj_D-UWGGORZsQxeQ/view
