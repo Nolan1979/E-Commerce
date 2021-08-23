@@ -11,7 +11,7 @@ This app uses node.js and Mysql.
 - [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
-- [Walkthrough Video](#Walkthrough Video)
+- [Walkthrough Video](#alkthrough video)
 
 ## Installation
 Clone this repo to your machine and run "npm i" in your terminal or bash.
